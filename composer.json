@@ -1,5 +1,5 @@
 {
-    "name": "suq/k2-connect-php",
+    "name": "suq/suq-k2-connect-php",
     "description": "Suq's Kopokopo php SDK",
     "homepage": "https://github.com/kopokopo/k2-connect-php",
     "type": "library",
