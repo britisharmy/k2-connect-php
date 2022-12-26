@@ -1,6 +1,6 @@
 {
-    "name": "kopokopo/k2-connect-php",
-    "description": "Kopokopo's php SDK",
+    "name": "suq/k2-connect-php",
+    "description": "Suq's Kopokopo php SDK",
     "homepage": "https://github.com/kopokopo/k2-connect-php",
     "type": "library",
     "license": "MIT",
@@ -12,8 +12,8 @@
     },
     "authors": [
         {
-            "name": "Nicollet Njora",
-            "email": "nicollet.njora05@gmail.com"
+            "name": "Geoffrey",
+            "email": "info@suqinc.com"
         }
     ],
     "autoload": {
