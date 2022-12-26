@@ -1,8 +1,12 @@
-# Kopokopo PHP SDK
+# Suq Kopokopo PHP SDK
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/kopokopo/k2-connect-php)](https://packagist.org/packages/kopokopo/k2-connect-php)
 
 This is a module to assist php developers in consuming Kopokopo's API
+
+... updated php unit and guzzle
+
+`composer require suq/suq-k2-connect-php:dev-master`
 
 ## Installation
 
